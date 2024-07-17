@@ -62,22 +62,22 @@ Here are some key SQL queries used:
 
 The data model was created using a star schema with a central fact table (sales transactions) connected to dimension tables (customers, products, markets, etc.) as following.
 
-<img width="60%" src="https://github.com/Anokhi-hirsch/sales-data-analysis/blob/main/dashboard-images/star-schema.jpg" />
+<img width="70%" src="https://github.com/Anokhi-hirsch/sales-data-analysis/blob/main/dashboard-images/star-schema.jpg" />
 
 ### Power BI Dashboard
 An interactive dashboard was created in Power BI to visualize the following:
 
-<img width="60%" src="https://github.com/Anokhi-hirsch/sales-data-analysis/blob/main/dashboard-images//initial-sales-analysis.jpg" />
+<img width="70%" src="https://github.com/Anokhi-hirsch/sales-data-analysis/blob/main/dashboard-images//initial-sales-analysis.jpg" />
 </p>
 
 For example, we can see by selection, in year 2020, revenue in Delhi region what 77.73 million, where it dramatically decreased by June 2020 according to revenue trend.
 
-<img width="60%" src="https://github.com/Anokhi-hirsch/sales-data-analysis/blob/main/dashboard-images/interactive-1.jpg" />
+<img width="70%" src="https://github.com/Anokhi-hirsch/sales-data-analysis/blob/main/dashboard-images/interactive-1.jpg" />
 </p>
 
 Profit Analysis based on feedback from stakeholders.
 
-<img width="60%" src="https://github.com/Anokhi-hirsch/sales-data-analysis/blob/main/dashboard-images/profit-analysis.jpg" />
+<img width="70%" src="https://github.com/Anokhi-hirsch/sales-data-analysis/blob/main/dashboard-images/profit-analysis.jpg" />
 </p>
 
 ### Some Recommendations for Stakeholders
