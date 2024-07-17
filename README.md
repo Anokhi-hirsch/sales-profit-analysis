@@ -1,4 +1,4 @@
-## Sales Data Analysis Project using Power BI & MySQL
+## Sales and Profit Data Analysis Project using Power BI & MySQL
 
 ### Project Overview
 
