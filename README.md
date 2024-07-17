@@ -1,6 +1,6 @@
 ## Project : Sales Data Analysis performed on Power BI & MySQL
 
-### Project overview
+### Project Overview
 
 - Analyzed sales data for a computer hardware and peripheral manufacturer.
 - Developed ETL mappings using MySQL, extract the data from unstructured data, transformed it to the staging area, conducted data cleaning and design star schema data model on Power BI.
