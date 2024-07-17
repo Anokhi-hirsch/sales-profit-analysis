@@ -3,8 +3,9 @@
 ### Project Overview
 
 - Analyzed sales data for a computer hardware and peripheral manufacturer.
-- Developed ETL mappings using MySQL, extract the data from unstructured data, transformed it to the staging area, conducted data cleaning and design star schema data model on Power BI.
-- Created Power BI dashboards to perform sales and profit analysis, produced quantitative visualizations to draw valuable insights based on different parameters affecting the company performance and provided business solutions.
+- Developed ETL mappings using MySQL, extracted data from unstructured sources, transformed it to the staging area, and conducted data cleaning.
+- Designed a star schema data model in Power BI.
+- Created Power BI dashboards to perform sales and profit analysis, producing quantitative visualizations to draw valuable insights and provide business solutions.
 
 ### Key Technologies used
 - Power BI
@@ -70,7 +71,7 @@ An interactive dashboard was created in Power BI to visualize the following:
 <img width="70%" src="https://github.com/Anokhi-hirsch/sales-data-analysis/blob/main/dashboard-images//initial-sales-analysis.jpg" />
 </p>
 
-For example, we can see by selection, in year 2020, revenue in Delhi region what 77.73 million, where it dramatically decreased by June 2020 according to revenue trend.
+For example, we can see by selecting the year 2020, revenue in the Delhi region was 77.73 million, with a dramatic decrease by June 2020 according to the revenue trend.
 
 <img width="70%" src="https://github.com/Anokhi-hirsch/sales-data-analysis/blob/main/dashboard-images/interactive-1.jpg" />
 </p>
