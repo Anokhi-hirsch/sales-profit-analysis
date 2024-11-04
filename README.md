@@ -71,7 +71,7 @@ An interactive dashboard was created in Power BI to visualize the following:
 <img width="70%" src="https://github.com/Anokhi-hirsch/sales-data-analysis/blob/main/dashboard-images//initial-sales-analysis.jpg" />
 </p>
 
-For example, we can see by selecting the year 2020, revenue in the Delhi region was 77.73 million, with a dramatic decrease by June 2020 according to the revenue trend.
+For example, we can see by selecting the year 2020, revenue in the Delhi region was 78 million, with a dramatic decrease by June 2020 according to the revenue trend.
 
 <img width="70%" src="https://github.com/Anokhi-hirsch/sales-data-analysis/blob/main/dashboard-images/interactive-1.jpg" />
 </p>
