@@ -14,7 +14,6 @@
 ## About the Dataset
 The data includes order information, sales details, customer data, and shipping information.
 
-Download file: <code>[sales_data.sql](https://github.com/Anokhi-hirsch/sales-data-analysis/blob/main/sales_data.sql)</code>
 
 ## Data Cleaning & Transformation
 
